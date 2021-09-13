@@ -1,0 +1,14 @@
+Arquivos
+http://sourceforge.net/projects/emgucv/files/emgucv/
+no projeto utilizei a versão emgu 2.3 x64
+
+Documentação
+http://www.emgu.com/wiki/files/2.3.0/document/Index.html
+
+não tem o que explicar relacionado a instalação...
+é apenas dll, basta adicionar ao projeto e usar suas funções...
+na documentação tem tudo o que é preciso.
+
+
+caso necessario passo a passo do uso das dll
+http://rafaelcoronel.wordpress.com/2012/01/22/tutorial-opencv-com-microsoft-c/

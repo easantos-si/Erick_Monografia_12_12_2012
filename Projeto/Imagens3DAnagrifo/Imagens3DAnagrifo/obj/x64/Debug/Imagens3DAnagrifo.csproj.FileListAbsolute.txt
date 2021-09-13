@@ -1,0 +1,25 @@
+C:\Users\erick\Documents\Visual Studio 2010\Projects\Imagens3DAnagrifo\Imagens3DAnagrifo\bin\x64\Debug\Imagens3DAnagrifo.exe
+C:\Users\erick\Documents\Visual Studio 2010\Projects\Imagens3DAnagrifo\Imagens3DAnagrifo\bin\x64\Debug\Imagens3DAnagrifo.pdb
+C:\Users\erick\Documents\Visual Studio 2010\Projects\Imagens3DAnagrifo\Imagens3DAnagrifo\bin\x64\Debug\Emgu.CV.dll
+C:\Users\erick\Documents\Visual Studio 2010\Projects\Imagens3DAnagrifo\Imagens3DAnagrifo\bin\x64\Debug\Emgu.CV.GPU.dll
+C:\Users\erick\Documents\Visual Studio 2010\Projects\Imagens3DAnagrifo\Imagens3DAnagrifo\bin\x64\Debug\Emgu.CV.ML.dll
+C:\Users\erick\Documents\Visual Studio 2010\Projects\Imagens3DAnagrifo\Imagens3DAnagrifo\bin\x64\Debug\Emgu.CV.OCR.dll
+C:\Users\erick\Documents\Visual Studio 2010\Projects\Imagens3DAnagrifo\Imagens3DAnagrifo\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\erick\Documents\Visual Studio 2010\Projects\Imagens3DAnagrifo\Imagens3DAnagrifo\bin\x64\Debug\Emgu.Util.dll
+C:\Users\erick\Documents\Visual Studio 2010\Projects\Imagens3DAnagrifo\Imagens3DAnagrifo\bin\x64\Debug\ZedGraph.dll
+C:\Users\erick\Documents\Visual Studio 2010\Projects\Imagens3DAnagrifo\Imagens3DAnagrifo\bin\x64\Debug\Emgu.CV.xml
+C:\Users\erick\Documents\Visual Studio 2010\Projects\Imagens3DAnagrifo\Imagens3DAnagrifo\bin\x64\Debug\Emgu.CV.GPU.xml
+C:\Users\erick\Documents\Visual Studio 2010\Projects\Imagens3DAnagrifo\Imagens3DAnagrifo\bin\x64\Debug\Emgu.CV.ML.xml
+C:\Users\erick\Documents\Visual Studio 2010\Projects\Imagens3DAnagrifo\Imagens3DAnagrifo\bin\x64\Debug\Emgu.CV.OCR.xml
+C:\Users\erick\Documents\Visual Studio 2010\Projects\Imagens3DAnagrifo\Imagens3DAnagrifo\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\erick\Documents\Visual Studio 2010\Projects\Imagens3DAnagrifo\Imagens3DAnagrifo\bin\x64\Debug\Emgu.Util.xml
+C:\Users\erick\Documents\Visual Studio 2010\Projects\Imagens3DAnagrifo\Imagens3DAnagrifo\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\erick\Documents\Visual Studio 2010\Projects\Imagens3DAnagrifo\Imagens3DAnagrifo\obj\x64\Debug\Imagens3DAnagrifo.Properties.Resources.resources
+C:\Users\erick\Documents\Visual Studio 2010\Projects\Imagens3DAnagrifo\Imagens3DAnagrifo\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\erick\Documents\Visual Studio 2010\Projects\Imagens3DAnagrifo\Imagens3DAnagrifo\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\erick\Documents\Visual Studio 2010\Projects\Imagens3DAnagrifo\Imagens3DAnagrifo\obj\x64\Debug\Imagens3DAnagrifo.exe
+C:\Users\erick\Documents\Visual Studio 2010\Projects\Imagens3DAnagrifo\Imagens3DAnagrifo\obj\x64\Debug\Imagens3DAnagrifo.pdb
+C:\Users\erick\Documents\Visual Studio 2010\Projects\Imagens3DAnagrifo\Imagens3DAnagrifo\obj\x64\Debug\Imagens3DAnagrifo.F_controles.resources
+C:\Users\erick\Documents\Visual Studio 2010\Projects\Imagens3DAnagrifo\Imagens3DAnagrifo\obj\x64\Debug\Imagens3DAnagrifo.F_Imagem3D.resources
+D:\Projetos\Erick - Imagens 3D\Projeto\Imagens3DAnagrifo\Imagens3DAnagrifo\obj\x64\Debug\Imagens3DAnagrifo.exe
+D:\Projetos\Erick - Imagens 3D\Projeto\Imagens3DAnagrifo\Imagens3DAnagrifo\obj\x64\Debug\Imagens3DAnagrifo.pdb
